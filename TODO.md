@@ -1,6 +1,6 @@
 - [ ] Stability of a braid compared vs the relative speed of light
 - [ ] How Sensitive is a braid under perturbation of the distance between bodies
 - [ ] Compare Hermite vs HermiteGRX
-- [ ] 
+- [ ] TEST TEST TEST
 - [ ] Read literature &rarr;
   - [ ] Actual stability of Figure 8 solution
