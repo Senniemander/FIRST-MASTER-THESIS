@@ -1,4 +1,19 @@
 /* Additional vertical padding used by kbd tag. */
+h1 {
+  color: red;
+  animation: myanimation 2s infinite;
+}
+
+@keyframes myanimation {
+  from {
+    color: red;
+  }
+  to {
+    color: yellow;
+  }
+}
+
+
 .py-05 {
   padding-top: 0.125rem;
   padding-bottom: 0.125rem;
